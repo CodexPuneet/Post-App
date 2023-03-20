@@ -36,6 +36,7 @@ Technologies used in the project:
 - Live previews
 - Fullscreen mode
 - Cross platform
+- Responsiveness
 
 
 ## 🚀 Demo
