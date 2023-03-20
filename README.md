@@ -98,6 +98,5 @@ mongoDbUrl              // your mongoDB URI to connect to the mongoDB atlas
 - [@CodexPuneet](https://www.github.com/CodexPuneet)
 
 
-##
-This project was built during our construct week at Masai School. It was built by a team of 5 developers and executed in 6 days.
+
        
