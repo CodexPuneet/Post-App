@@ -25,7 +25,8 @@ Technologies used in the project:
 ## 💻 Screenshots
 
 **BLOG Page:**
-![Home Page](https://user-images.githubusercontent.com/49484642/214049412-b62130c6-f19b-449f-9b22-43a99cf41774.png)
+![Blogg](https://user-images.githubusercontent.com/103636380/226426992-705b0fa6-7776-455c-ac30-73649d2e629a.png)
+
 
 
 
