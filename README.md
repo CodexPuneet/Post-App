@@ -12,7 +12,7 @@ Technologies used in the project:
 
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&amp;logo=redux&amp;logoColor=white)
 
-![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&amp;logo=chakra-ui&amp;logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-319795?style=for-the-badge&amp;logo=Bootstrap&amp;logoColor=white)
 
 ![Node-JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white)
 
@@ -24,23 +24,10 @@ Technologies used in the project:
 
 ## 💻 Screenshots
 
-**Home Page:**
+**BLOG Page:**
 ![Home Page](https://user-images.githubusercontent.com/49484642/214049412-b62130c6-f19b-449f-9b22-43a99cf41774.png)
 
-**Login Page:**
-![Login Page](https://user-images.githubusercontent.com/49484642/214050878-7b2bace5-6f63-453c-ab5d-dd60919f8b3d.png)
 
-**Product Page:**
-![Product Page](https://user-images.githubusercontent.com/49484642/214049453-8e0930ea-957d-4ef7-88a2-de7682f5c3dc.png)
-
-**Single Product Page:**
-![Single Product Page](https://user-images.githubusercontent.com/49484642/214049494-35508512-06f3-4bfb-bc2a-95ec473b74aa.png)
-
-**Cart Page:**
-![Cart Page](https://user-images.githubusercontent.com/49484642/214049471-3c26b539-e904-408c-8e3b-f6bb6dbc5a15.png)
-
-**Admin Page:**
-![Admin Page](https://user-images.githubusercontent.com/49484642/214050842-c2778582-cd95-41ce-97ce-c73ef281ffef.png)
 
 
 ## ✨ Features 
