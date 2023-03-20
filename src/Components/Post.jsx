@@ -27,8 +27,8 @@ const Post = () => {
         axios.post(`https://elated-ray-hosiery.cyclic.app/post/create`,blog)
         .then((res)=>{
             toast({
-                title: 'Post Posted Sucessfully.',
-                description: "We've posting your post to our app. Please Wait..",
+                title: 'Posted Sucessfully.',
+                description: "We're posting your post. Please Wait..",
                 status: 'success',
                 duration: 5000,
                 isClosable: true,
@@ -89,7 +89,7 @@ const Post = () => {
       </div>
       <div className="modal-footer">
         <button type="button" className="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-        <button  type='submit'className="btn btn-primary" data-bs-dismiss="modal">Post</button>
+        <button  type='submit'className="btn btn-primary" >Post</button>
       </div>
       </form>
       
