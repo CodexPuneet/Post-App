@@ -64,14 +64,14 @@ https://elated-ray-hosiery.cyclic.app/
 
 Clone the project
 ```bash
-git clone https://github.com/SCjadhav21/Project_ShopQ_Mart.git
+git clone https://github.com/CodexPuneet/Post-App.git
 ```
-## Client-side usage
+
 
 Go to the project directory
 
 ```bash
-$ cd frontend          // go to client folder
+$ cd Post-App         // go to client folder
 $ yarn # or npm i    // npm install packages
 $ npm run start        // run it locally
 
@@ -79,6 +79,7 @@ $ npm run start        // run it locally
 $ npm run build // this will compile the react code using webpack and generate a folder called docs in the root level
 ```
 ## Server-side usage
+Server Side Backend is another repository POST BACKEND
 
 **Environment Variables:-**
 
@@ -87,23 +88,15 @@ To run this project, you will need to add the following environment variables to
 ```
 port                    // the port on which the server will run
 mongoDbUrl              // your mongoDB URI to connect to the mongoDB atlas
-key                     // key which will be JWT secret key 
+
 ```
 
-**Start**
-
-```bash
-$ cd backend            // go to server folder
-$ npm i                 // npm install packages
-$ npm run server        // run it locally
 ```
-## ✍ Authors 
+## ✍ dEVELOPER
 
-- [@Gurjazz18](https://github.com/Gurjazz18)
-- [@sbj1198](https://github.com/sbj1198)
-- [@SCjadhav21](https://www.github.com/SCjadhav21)
+
 - [@CodexPuneet](https://www.github.com/CodexPuneet)
-- [@Harshank11](https://github.com/Harshank11)
+
 
 ##
 This project was built during our construct week at Masai School. It was built by a team of 5 developers and executed in 6 days.
