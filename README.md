@@ -1,17 +1,14 @@
 
-<h1 align="center" id="title">ShopQ Mart</h1>
-What you Think is What you Get’ isn’t just a saying at ShopQ Mart. With over 2.8 crore products you can get just about everything that you can imagine at ShopQ Mart. From usual products in Electronics Fashion Home & Kitchen to unusual products like cow dung cakes Knife Sharpeners etc. ShopQ Mart tops in everything. So you see what we mean when we say Aflatooni Products!
+<h1 align="center" id="title">Blog App</h1>
+This is a Blog Post App created for a company. In this app bassically you can use CRUD Operations, you can also Search the post or sort the post according to posted date.
 
 
 ## 🛠 Built with 
 
 Technologies used in the project:
 
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E)
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB)
-
-![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&amp;logo=react-router&amp;logoColor=white)
 
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&amp;logo=redux&amp;logoColor=white)
 
@@ -23,7 +20,7 @@ Technologies used in the project:
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white)
 
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&amp;logo=JSON%20web%20tokens)
+
 
 ## 💻 Screenshots
 
