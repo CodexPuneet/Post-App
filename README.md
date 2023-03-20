@@ -92,10 +92,7 @@ mongoDbUrl              // your mongoDB URI to connect to the mongoDB atlas
 ```
 
 ```
-## ✍ dEVELOPER
 
-
-- https://github.com/CodexPuneet
 
 
 
