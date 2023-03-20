@@ -1,70 +1,135 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center" id="title">ShopQ Mart</h1>
+What you Think is What you Get’ isn’t just a saying at ShopQ Mart. With over 2.8 crore products you can get just about everything that you can imagine at ShopQ Mart. From usual products in Electronics Fashion Home & Kitchen to unusual products like cow dung cakes Knife Sharpeners etc. ShopQ Mart tops in everything. So you see what we mean when we say Aflatooni Products!
 
-## Available Scripts
 
-In the project directory, you can run:
+## 🛠 Built with 
 
-### `npm start`
+Technologies used in the project:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB)
 
-### `npm test`
+![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&amp;logo=react-router&amp;logoColor=white)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&amp;logo=redux&amp;logoColor=white)
 
-### `npm run build`
+![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&amp;logo=chakra-ui&amp;logoColor=white)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Node-JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![Express-JS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&amp;logo=express&amp;logoColor=white)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white)
 
-### `npm run eject`
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&amp;logo=JSON%20web%20tokens)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 💻 Screenshots
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+**Home Page:**
+![Home Page](https://user-images.githubusercontent.com/49484642/214049412-b62130c6-f19b-449f-9b22-43a99cf41774.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+**Login Page:**
+![Login Page](https://user-images.githubusercontent.com/49484642/214050878-7b2bace5-6f63-453c-ab5d-dd60919f8b3d.png)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+**Product Page:**
+![Product Page](https://user-images.githubusercontent.com/49484642/214049453-8e0930ea-957d-4ef7-88a2-de7682f5c3dc.png)
 
-## Learn More
+**Single Product Page:**
+![Single Product Page](https://user-images.githubusercontent.com/49484642/214049494-35508512-06f3-4bfb-bc2a-95ec473b74aa.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+**Cart Page:**
+![Cart Page](https://user-images.githubusercontent.com/49484642/214049471-3c26b539-e904-408c-8e3b-f6bb6dbc5a15.png)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+**Admin Page:**
+![Admin Page](https://user-images.githubusercontent.com/49484642/214050842-c2778582-cd95-41ce-97ce-c73ef281ffef.png)
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## ✨ Features 
 
-### Analyzing the Bundle Size
+- Live previews
+- Fullscreen mode
+- Cross platform
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+## 🚀 Demo
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+**Front-end deployed URL:**
 
-### Advanced Configuration
+https://shopqmart.vercel.app/
+<br/>
+https://singular-sundae-186837.netlify.app/
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+**Back-end deployed URL:**
 
-### Deployment
+https://splendid-bear-cap.cyclic.app/
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+##  📁 Folder structure
+#### `Frontend` - Holds the client application
+- #### `public` - This holds all of our static files
+- #### `src`
+    - #### `assets` - This folder holds assets such as images, docs, and fonts
+    - #### `components` - This folder holds all of the different components that will make up our pages
+    - #### `pages` - These represent a unique page on the website i.e. Home or About. 
+    - #### `redux` - It consists of store, reducer, action and actiontypes and is responsible for global state management of our app.
+    - #### `App.js` - This is what renders all of our browser routes and different pages
+    - #### `index.js` - This is what renders the react app by rendering App.js.
+- #### `package.json` - Defines npm behaviors and packages for the client
+#### `Backend` - Holds the server application
+- #### `config` - This holds our configuration files, like mongoDB uri
+- #### `middlewares` - This holds all our middlewares used in our application
+- #### `models` - This holds all of our data models or business logic
+- #### `routes/controllers` - This holds all of our HTTP to URL path associations for each unique url
+- #### `index.js` - An entry file for our Node JS application
+#### `package.json` - Defines npm behaviors like the scripts defined in the next section of the README
+#### `.gitignore` - Tells git which files to ignore
+#### `README` - This file!
+# Installation
 
-### `npm run build` fails to minify
+Clone the project
+```bash
+git clone https://github.com/SCjadhav21/Project_ShopQ_Mart.git
+```
+## Client-side usage
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Go to the project directory
+
+```bash
+$ cd frontend          // go to client folder
+$ yarn # or npm i    // npm install packages
+$ npm run start        // run it locally
+
+// deployment for client app
+$ npm run build // this will compile the react code using webpack and generate a folder called docs in the root level
+```
+## Server-side usage
+
+**Environment Variables:-**
+
+To run this project, you will need to add the following environment variables to your .env file
+
+```
+port                    // the port on which the server will run
+mongoDbUrl              // your mongoDB URI to connect to the mongoDB atlas
+key                     // key which will be JWT secret key 
+```
+
+**Start**
+
+```bash
+$ cd backend            // go to server folder
+$ npm i                 // npm install packages
+$ npm run server        // run it locally
+```
+## ✍ Authors 
+
+- [@Gurjazz18](https://github.com/Gurjazz18)
+- [@sbj1198](https://github.com/sbj1198)
+- [@SCjadhav21](https://www.github.com/SCjadhav21)
+- [@CodexPuneet](https://www.github.com/CodexPuneet)
+- [@Harshank11](https://github.com/Harshank11)
+
+##
+This project was built during our construct week at Masai School. It was built by a team of 5 developers and executed in 6 days.
+       
