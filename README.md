@@ -89,11 +89,4 @@ To run this project, you will need to add the following environment variables to
 port                    // the port on which the server will run
 mongoDbUrl              // your mongoDB URI to connect to the mongoDB atlas
 
-```
-
-```
-
-
-
-
-       
+      
